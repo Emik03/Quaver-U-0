@@ -28954,11 +28954,11 @@ HitObjects:
   HitSound: Normal, Whistle, Clap
   KeySounds: []
 - StartTime: 147640
-  Lane: 2
+  Lane: 3
   HitSound: Normal, Clap
   KeySounds: []
 - StartTime: 147684
-  Lane: 3
+  Lane: 2
   HitSound: Normal, Clap
   KeySounds: []
 - StartTime: 147727
@@ -28970,11 +28970,11 @@ HitObjects:
   HitSound: Normal, Whistle, Clap
   KeySounds: []
 - StartTime: 147815
-  Lane: 2
+  Lane: 3
   HitSound: Normal, Clap
   KeySounds: []
 - StartTime: 147858
-  Lane: 3
+  Lane: 2
   HitSound: Normal, Clap
   KeySounds: []
 - StartTime: 147902
