@@ -30600,6 +30600,7 @@ HitObjects:
   KeySounds: []
 - StartTime: 163643
   Lane: 4
+  HitSound: Normal, Clap
   KeySounds: []
 - StartTime: 163730
   Lane: 2
@@ -30627,6 +30628,7 @@ HitObjects:
   KeySounds: []
 - StartTime: 164341
   Lane: 4
+  HitSound: Normal, Clap
   KeySounds: []
 - StartTime: 164428
   Lane: 2
@@ -31065,6 +31067,7 @@ HitObjects:
   KeySounds: []
 - StartTime: 174806
   Lane: 4
+  HitSound: Normal, Clap
   KeySounds: []
 - StartTime: 174893
   Lane: 1
@@ -31092,6 +31095,7 @@ HitObjects:
   KeySounds: []
 - StartTime: 175504
   Lane: 4
+  HitSound: Normal, Clap
   KeySounds: []
 - StartTime: 175591
   Lane: 1
